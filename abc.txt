@@ -4,3 +4,6 @@ this is now changed
 
 
 git now a day
+
+
+previous working state
